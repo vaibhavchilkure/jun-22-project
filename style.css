@@ -1,0 +1,49 @@
+h1 {
+    text-align: center;
+    color: hsl(199, 77%, 58%);
+   
+}
+h4{
+    color: blue;
+}
+p{
+      text-align: center;
+    color: dimgrey;
+
+    }
+div{text-align: center;
+    margin-bottom: 10px;}
+
+   
+   button{
+       color: cornsilk;
+       background-color: blue;
+  
+   }
+   table, tbody,tr{margin-left: 25%;}
+   {All {
+    background-color: green;
+    color: white;
+    border-radius: 20px;
+    margin-right: 10px;
+    cursor: pointer;
+    }
+    #Branding,#Design,#Development {
+    background-color: white;
+    border-radius: 20px;
+    margin-right: 10px;
+    cursor: pointer;
+    }
+    0 comments on commit 2d60204
+       
+   }
+    
+        
+
+
+
+
+
+
+
+
